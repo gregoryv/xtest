@@ -1,9 +1,8 @@
-xtest - show ways of creating test suites in Go
+xtest - show how to create test suites in Go
 
-This example shows how you can group tests to run in test suites,
-either by using build tags or by supplying a test suite name. The
-latter has the benefit of always compiling your tests(catchin
-refactoring issues).
+This example shows how to group tests.
+Use build tags or by supplying a suite name.
+The latter has the benefit of always compiling your tests.
 
 
 ## Quick start
